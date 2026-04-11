@@ -95,14 +95,14 @@ This project is based on ESP32 for real-time monitoring of voltage, current, and
 
 ## 👨‍💻 Team Members
 - Rupak Chatterjee
-- Surjendu Mukherjee (@surjendu02)
+- Surjendu Mukherjee ([@surjendu02](https://github.com/surjendu02))
 - Tirtha Mondal
 - Debayan Laha
 - Abir Kumar Laha
 - Chanchal Bhattacharjee
 - Akash Mukherjee
 - Marzanur Zaman
-- Subha Sarkar (@suryagaming145)
+- Subha Sarkar ([@suryagaming145](https://github.com/suryagaming145))
 
 ---
 
