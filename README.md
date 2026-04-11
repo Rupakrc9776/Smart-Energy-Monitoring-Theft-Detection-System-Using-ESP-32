@@ -94,7 +94,7 @@ This project is based on ESP32 for real-time monitoring of voltage, current, and
 ---
 
 ## 👨‍💻 Team Members
-- Rupak Chatterjee
+- Rupak Chatterjee ([@Rupakrc9776](https://github.com/Rupakrc9776))
 - Surjendu Mukherjee ([@surjendu02](https://github.com/surjendu02))
 - Tirtha Mondal
 - Debayan Laha
