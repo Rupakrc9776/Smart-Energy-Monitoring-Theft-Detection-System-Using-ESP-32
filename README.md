@@ -29,14 +29,14 @@ This project is based on ESP32 for real-time monitoring of voltage, current, and
 
 ### 🙏 Our Team
 <p align="center">
-  <img src="![20260409_32747PMByGPSMapCamera](https://github.com/user-attachments/assets/ee65aa96-484f-446b-af04-1aea3bdfe42d)" width="300"/>
+  <img src="https://github.com/user-attachments/assets/ee65aa96-484f-446b-af04-1aea3bdfe42d" width="300"/>
 </p>
 
 ---
 
 ### 🔌 Hardware Setup
 <p align="center">
-  <img src="![20260409_33029PMByGPSMapCamera](https://github.com/user-attachments/assets/21c0804d-04ab-47a6-8174-03ebdd5b4453)" width="300"/>
+  <img src="https://github.com/user-attachments/assets/21c0804d-04ab-47a6-8174-03ebdd5b4453" width="300"/>
 </p>
 <p align="center"><b>Fig 2:</b> Complete hardware setup of the system</p>
 
@@ -44,7 +44,7 @@ This project is based on ESP32 for real-time monitoring of voltage, current, and
 
 ### 🖥 OLED Output (Normal Condition)
 <p align="center">
-  <img src="![IMG_20260410_235442](https://github.com/user-attachments/assets/cbbb57cf-ac07-4d64-b226-347d5932c80c)" width="300"/>
+  <img src="https://github.com/user-attachments/assets/cbbb57cf-ac07-4d64-b226-347d5932c80c" width="300"/>
 </p>
 <p align="center"><b>Fig 3:</b> OLED displaying voltage, current and power values</p>
 
@@ -52,7 +52,7 @@ This project is based on ESP32 for real-time monitoring of voltage, current, and
 
 ### 🚨 Theft Detection Alert
 <p align="center">
-  <img src="![IMG_20260410_235459](https://github.com/user-attachments/assets/157b6d3f-d00f-40d1-895d-7fb74a53854c)" width="300"/>
+  <img src="https://github.com/user-attachments/assets/157b6d3f-d00f-40d1-895d-7fb74a53854c" width="300"/>
 </p>
 <p align="center"><b>Fig 4:</b> Theft condition showing alert with buzzer and LED</p>
 
@@ -60,7 +60,7 @@ This project is based on ESP32 for real-time monitoring of voltage, current, and
 
 ### ☠️ Circuit Connetions
 <p align="center">
-  <img src="![20260409_33029PMByGPSMapCamera](https://github.com/user-attachments/assets/997618c6-c60c-450f-ac46-798e08e3b565)" width="300"/>
+  <img src="https://github.com/user-attachments/assets/997618c6-c60c-450f-ac46-798e08e3b565" width="300"/>
 </p>
 <p align="center"><b>Fig 5:</b> Circuit Connections under real Working Condition</p>
 
