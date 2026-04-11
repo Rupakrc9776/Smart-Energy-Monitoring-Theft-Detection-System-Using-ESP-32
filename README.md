@@ -27,7 +27,7 @@ This project is based on ESP32 for real-time monitoring of voltage, current, and
 
 ## 📸 Project Images
 
-### 🙏 Our Team
+### 🙏 Our TeamName Animation
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ee65aa96-484f-446b-af04-1aea3bdfe42d" width="300"/>
 </p>
