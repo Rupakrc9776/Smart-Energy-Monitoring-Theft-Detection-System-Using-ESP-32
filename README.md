@@ -71,7 +71,7 @@ This project is based on ESP32 for real-time monitoring of voltage, current, and
 - Tirtha Mondal
 - Debayan Laha
 - Abir Kumar Laha
-- Chanchal Bhattacharya
+- Chanchal Bhattacharjee
 - Akash Mukherjee
 - Marzanur Zaman
 - Subha Sarkar
