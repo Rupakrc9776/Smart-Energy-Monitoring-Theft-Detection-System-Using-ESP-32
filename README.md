@@ -19,11 +19,38 @@ This project is based on ESP32 for real-time monitoring of voltage, current, and
 - Theft detection using threshold
 - Alert via LED, buzzer & mobile
 
+## ⚙️ Working Principle
+1. Sensors measure voltage and current
+2. ESP32 processes data and calculates power
+3. Data is displayed on OLED screen
+4. Data is sent to Blynk app via WiFi
+5. If current exceeds threshold → Theft alert triggered
+6. Buzzer and LED indicate alert condition
+
+## ▶️ How to Run
+1. Install Arduino IDE
+2. Install ESP32 board package
+3. Install required libraries:
+   - Blynk
+   - Adafruit SSD1306
+   - Adafruit GFX
+4. Upload code to ESP32
+5. Connect hardware as per circuit
+6. Open Serial Monitor / Blynk app
+
+## 🔮 Future Improvements/Scope
+- Smart meter integration  
+- Cloud data storage  
+- AI-based anomaly detection  
+- Mobile notification system upgrade
+
 ## 📱 Blynk Datastreams
 - V0 → Voltage
 - V1 → Current
 - V2 → Power
 - V3 → Theft Alert
+
+---
 
 ## 📸 Project Images
 
@@ -64,6 +91,7 @@ This project is based on ESP32 for real-time monitoring of voltage, current, and
 </p>
 <p align="center"><b>Fig 5:</b> Circuit Connections under real Working Condition</p>
 
+---
 
 ## 👨‍💻 Team Members
 - Rupak Chatterjee
@@ -76,5 +104,18 @@ This project is based on ESP32 for real-time monitoring of voltage, current, and
 - Marzanur Zaman
 - Subha Sarkar
 
+---
+
 ## 🎓 Mentor
 - Kingsuk Majumdar,Ph.D (Engg)
+
+---
+
+## 🔒 Note on Circuit Design
+
+The detailed circuit diagram of this project is not publicly disclosed due to intellectual property considerations.  
+However, the system architecture and working principle are explained for academic purposes.
+
+---
+
+⭐ If you like this project, give it a star!
