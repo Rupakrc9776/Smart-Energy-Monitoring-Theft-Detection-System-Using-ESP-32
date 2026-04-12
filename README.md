@@ -1,7 +1,11 @@
 # ⚡ Smart Energy Monitoring & Theft Detection System
 
 ## 📌 Overview
-This project is based on ESP32 for real-time monitoring of voltage, current, and power. It also detects abnormal energy usage (theft).
+[AICTE IDE](https://bootcamp.mic.gov.in/)  Bootcamp (Innovation, Design & Entrepreneurship), conducted from 06/04/2026 to 10/04/2026 under the Ministry of Education’s Innovation Cell (MIC)
+
+At Dr. B. C. Roy Engineering College, Durgapur
+
+Developed an ESP32-based system for real-time monitoring of voltage, current, and power, incorporating detection of abnormal energy usage (energy theft). The project was successfully completed and submitted with a fully functional working prototype.
 
 ## 🔧 Components Used
 - ESP32 Development Board
@@ -107,7 +111,7 @@ This project is based on ESP32 for real-time monitoring of voltage, current, and
 ---
 
 ## 🎓 Mentor
-- Kingsuk Majumdar,Ph.D (Engg)
+- [Kingsuk Majumdar, Ph.D. (Engg)](https://github.com/KingsukMajumdar) 
 
 ---
 
