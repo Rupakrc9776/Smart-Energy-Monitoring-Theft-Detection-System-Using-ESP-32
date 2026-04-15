@@ -107,7 +107,7 @@ This project is based on ESP32 for real-time monitoring of voltage, current, and
 ---
 
 ## 🎓 Mentor
-- Kingsuk Majumdar,Ph.D (Engg)
+- Kingsuk Majumdar,Ph.D (Engg) ([@KingsukMajumdar](https://github.com/KingsukMajumdar))
 
 ---
 
